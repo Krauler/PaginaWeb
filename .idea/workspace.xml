@@ -2,21 +2,62 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a6bb31c-10fd-4d0f-994a-383d6993ce6f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pag.Servicios/_Ba.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pag.Servicios/_Ciru.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pag.Servicios/_Consulta.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pag.Servicios/_Des.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pag.Servicios/_Lim.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pag.Servicios/_Placa.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pag.Servicios/_Ropa.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pag.Servicios/_Vacceso.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pag.Servicios/_Vacunas.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pag.Servicios/Asesoria_Veterinaria.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pag.Servicios/Banio_y_estetica.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pag.Servicios/Cirugia.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pag.Servicios/Desparasitaciones.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pag.Servicios/Farmacia_Veterinaria.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pag.Servicios/Hospitalizacion.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pag.Servicios/Laboratorio_clinico.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pag.Servicios/Limpieza_Dental.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pag.Servicios/Pension_y_guarderia.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pag.Servicios/Placas_de_identificacion.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pag.Servicios/Ropa.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pag.Servicios/Vacunas.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pag.Servicios/Venta_de_accesorios.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pag.Servicios/Venta_de_alimentos.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pag.Servicios/_Alimentos.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pag.Servicios/_Asesoria.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pag.Servicios/_Ba.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pag.Servicios/_Ciru.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pag.Servicios/_Consulta.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pag.Servicios/_Des.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pag.Servicios/_Farm.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pag.Servicios/_Hos.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pag.Servicios/_Lab.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pag.Servicios/_Lim.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pag.Servicios/_Pen.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pag.Servicios/_Placa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pag.Servicios/_Ropa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pag.Servicios/_Vacceso.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pag.Servicios/_Vacunas.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Starcraft/0AC.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Starcraft/LotV-header-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Starcraft/Starcraft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Starcraft/artanis-large.webm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Starcraft/artanis-short.webm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Starcraft/blizzard-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Starcraft/blizzard.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Starcraft/bordea.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Starcraft/cinematic_void.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Starcraft/ejemplo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Starcraft/ejemplo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Starcraft/header_bg.mp4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Starcraft/header_bg.webm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Starcraft/header_thumb_02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Starcraft/header_thumb_04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Starcraft/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Starcraft/sui_generis_rg-webfont.woff2" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Tweter.png" afterPath="$PROJECT_DIR$/img/Tweter.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/consulta.png" afterPath="$PROJECT_DIR$/img/consulta.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/facebook.png" afterPath="$PROJECT_DIR$/img/facebook.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/instagram.png" afterPath="$PROJECT_DIR$/img/instagram.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/youtube.png" afterPath="$PROJECT_DIR$/img/youtube.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Servicios.html" afterPath="$PROJECT_DIR$/Servicios.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/Estilo_Lista.css" afterPath="$PROJECT_DIR$/css/Estilo_Lista.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/estilo.css" afterPath="$PROJECT_DIR$/css/estilo.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index3.html" afterPath="$PROJECT_DIR$/index3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/indexF.html" afterPath="$PROJECT_DIR$/indexF.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/indexV.html" afterPath="$PROJECT_DIR$/indexV.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,42 +69,56 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Cirugia.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pag.Servicios/Cirugia.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="97" column="55" lean-forward="false" selection-start-line="97" selection-start-column="55" selection-end-line="97" selection-end-column="55" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Limpieza_Dental.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pag.Servicios/Limpieza_Dental.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="99" column="36" lean-forward="false" selection-start-line="99" selection-start-column="36" selection-end-line="99" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Asesoria_Veterinaria.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Pag.Servicios/Asesoria_Veterinaria.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="65" column="51" lean-forward="false" selection-start-line="65" selection-start-column="50" selection-end-line="65" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Servicios.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Servicios.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="77" column="22" lean-forward="true" selection-start-line="77" selection-start-column="22" selection-end-line="77" selection-end-column="22" />
+            <state relative-caret-position="218">
+              <caret line="102" column="24" lean-forward="true" selection-start-line="102" selection-start-column="24" selection-end-line="102" selection-end-column="24" />
               <folding>
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#4;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1493583578593" expanded="true" signature="4511:4554" ph="..." />
               </folding>
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_Consulta.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Pag.Servicios/_Consulta.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="75" column="49" lean-forward="false" selection-start-line="75" selection-start-column="49" selection-end-line="75" selection-end-column="49" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="consulta.png" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/img/consulta.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Estilo_Lista.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/Estilo_Lista.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="504">
+              <caret line="89" column="16" lean-forward="true" selection-start-line="89" selection-start-column="16" selection-end-line="89" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -81,10 +136,29 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>estilo</find>
+      <find>cuadr</find>
+      <find>red</find>
+      <find>quitar</find>
+      <find>cabec</find>
+      <find>cabece</find>
+      <find>textosr</find>
+      <find>cuadrote</find>
+      <find>formato</find>
+      <find>ESTILO</find>
+      <find>cir</find>
+      <find>titl</find>
+      <find>menu</find>
+      <find>vet-</find>
+      <find>di</find>
+      <find>margen</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Pag.Servicios/Cirugia.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Pag.Servicios/Desparasitaciones.html" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -94,23 +168,41 @@
         <option value="$PROJECT_DIR$/indexV.html" />
         <option value="$PROJECT_DIR$/Consulta.html" />
         <option value="$PROJECT_DIR$/Pag.Servicios/Consulta.html" />
+        <option value="$PROJECT_DIR$/Pag.Servicios/_Consulta.html" />
+        <option value="$PROJECT_DIR$/Pag.Servicios/_Alimentos.html" />
+        <option value="$PROJECT_DIR$/Pag.Servicios/_Asesoria.html" />
+        <option value="$PROJECT_DIR$/Pag.Servicios/_Ba.html" />
+        <option value="$PROJECT_DIR$/Pag.Servicios/_Farm.html" />
+        <option value="$PROJECT_DIR$/Pag.Servicios/_Hos.html" />
+        <option value="$PROJECT_DIR$/Pag.Servicios/_Lab.html" />
+        <option value="$PROJECT_DIR$/Pag.Servicios/_Lim.html" />
+        <option value="$PROJECT_DIR$/Pag.Servicios/_Pen.html" />
+        <option value="$PROJECT_DIR$/Pag.Servicios/_Placa.html" />
+        <option value="$PROJECT_DIR$/Pag.Servicios/_Ropa.html" />
+        <option value="$PROJECT_DIR$/Pag.Servicios/_Vacceso.html" />
         <option value="$PROJECT_DIR$/Pag.Servicios/_Des.html" />
         <option value="$PROJECT_DIR$/Pag.Servicios/_Ciru.html" />
-        <option value="$PROJECT_DIR$/Pag.Servicios/_Lim.html" />
-        <option value="$PROJECT_DIR$/Pag.Servicios/_Ba.html" />
-        <option value="$PROJECT_DIR$/Pag.Servicios/_Vacceso.html" />
-        <option value="$PROJECT_DIR$/Pag.Servicios/_Placa.html" />
-        <option value="$PROJECT_DIR$/Pag.Servicios/_Lab.html" />
-        <option value="$PROJECT_DIR$/Pag.Servicios/_Hos.html" />
-        <option value="$PROJECT_DIR$/Pag.Servicios/_Farm.html" />
-        <option value="$PROJECT_DIR$/Pag.Servicios/_Asesoria.html" />
-        <option value="$PROJECT_DIR$/Pag.Servicios/_Pen.html" />
-        <option value="$PROJECT_DIR$/Pag.Servicios/_Alimentos.html" />
-        <option value="$PROJECT_DIR$/Pag.Servicios/_Ropa.html" />
         <option value="$PROJECT_DIR$/Pag.Servicios/_Vacunas.html" />
-        <option value="$PROJECT_DIR$/css/Estilo_Lista.css" />
+        <option value="$PROJECT_DIR$/Pag.Servicios/Vacuna.html" />
+        <option value="$PROJECT_DIR$/Pag.Servicios/banio_y_estetica.html" />
         <option value="$PROJECT_DIR$/Servicios.html" />
-        <option value="$PROJECT_DIR$/Pag.Servicios/_Consulta.html" />
+        <option value="$PROJECT_DIR$/Pag.Servicios/Asesoria_Veterinaria.html" />
+        <option value="$PROJECT_DIR$/Pag.Servicios/Banio_y_estetica.html" />
+        <option value="$PROJECT_DIR$/Pag.Servicios/Farmacia_Veterinaria.html" />
+        <option value="$PROJECT_DIR$/Pag.Servicios/Hospitalizacion.html" />
+        <option value="$PROJECT_DIR$/Pag.Servicios/Laboratorio_clinico.html" />
+        <option value="$PROJECT_DIR$/Pag.Servicios/Pension_y_guarderia.html" />
+        <option value="$PROJECT_DIR$/Pag.Servicios/Placas_de_identificacion.html" />
+        <option value="$PROJECT_DIR$/Pag.Servicios/Ropa.html" />
+        <option value="$PROJECT_DIR$/Pag.Servicios/Vacunas.html" />
+        <option value="$PROJECT_DIR$/Pag.Servicios/Venta_de_accesorios.html" />
+        <option value="$PROJECT_DIR$/Pag.Servicios/Venta_de_alimentos.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/estilo.css" />
+        <option value="$PROJECT_DIR$/Pag.Servicios/Desparasitaciones.html" />
+        <option value="$PROJECT_DIR$/Pag.Servicios/Cirugia.html" />
+        <option value="$PROJECT_DIR$/css/Estilo_Lista.css" />
+        <option value="$PROJECT_DIR$/Pag.Servicios/Limpieza_Dental.html" />
       </list>
     </option>
   </component>
@@ -124,8 +216,24 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="width" value="1376" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -145,6 +253,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -157,9 +266,22 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PaginaWeb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PaginaWeb" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pag.Servicios" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -167,6 +289,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -289,35 +413,60 @@
       <workItem from="1493359420131" duration="2982000" />
       <workItem from="1493390512439" duration="2744000" />
       <workItem from="1493414844941" duration="258000" />
-      <workItem from="1493415437215" duration="9588000" />
+      <workItem from="1493415437215" duration="19857000" />
+      <workItem from="1493471164890" duration="6315000" />
+      <workItem from="1493483011424" duration="276000" />
+      <workItem from="1493488937806" duration="12523000" />
+      <workItem from="1493514641786" duration="5000000" />
+      <workItem from="1493574371039" duration="7701000" />
+      <workItem from="1493596137625" duration="3760000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15572000" />
+    <option name="totallyTimeSpent" value="61416000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1376" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10248902" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937685" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826748" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937685" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25487256" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
@@ -330,50 +479,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Servicios.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1258">
-          <caret line="74" column="38" lean-forward="false" selection-start-line="74" selection-start-column="38" selection-end-line="74" selection-end-column="38" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Consulta.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="10" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/Estilo_Lista.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Servicios.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1258">
-          <caret line="74" column="38" lean-forward="true" selection-start-line="74" selection-start-column="38" selection-end-line="74" selection-end-column="38" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Consulta.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/Estilo_Lista.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -387,7 +492,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#4;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1493583578593" expanded="true" signature="4511:4554" ph="..." />
           </folding>
         </state>
       </provider>
@@ -421,172 +527,218 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/Consulta.html" />
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Consulta.html" />
+    <entry file="file://$PROJECT_DIR$/img/consulta.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="84" column="16" lean-forward="false" selection-start-line="84" selection-start-column="16" selection-end-line="84" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/_Asesoria.html" />
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/_Consulta.html" />
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/_Farm.html" />
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/_Hos.html" />
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/_Lab.html" />
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/_Lim.html" />
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/_Pen.html" />
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/_Placa.html" />
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/_Ropa.html" />
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/_Vacceso.html" />
+    <entry file="file://$PROJECT_DIR$/img/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/_Alimentos.html" />
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/_Vacunas.html" />
+    <entry file="file://$PROJECT_DIR$/img/Lianas_Destacar.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/_Des.html" />
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/_Ciru.html" />
+    <entry file="file://$PROJECT_DIR$/img/Cirugia.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/Cirugia.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/_Ba.html" />
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Hospitalizacion.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="64" column="42" lean-forward="false" selection-start-line="64" selection-start-column="42" selection-end-line="64" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Laboratorio_clinico.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="63" column="42" lean-forward="false" selection-start-line="63" selection-start-column="42" selection-end-line="63" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Pension_y_guarderia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="67" column="42" lean-forward="false" selection-start-line="67" selection-start-column="42" selection-end-line="67" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Placas_de_identificacion.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="61" column="42" lean-forward="false" selection-start-line="61" selection-start-column="42" selection-end-line="61" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Ropa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="60" column="42" lean-forward="false" selection-start-line="60" selection-start-column="42" selection-end-line="60" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Vacunas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="54" column="42" lean-forward="false" selection-start-line="54" selection-start-column="42" selection-end-line="54" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Venta_de_accesorios.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="64" column="53" lean-forward="false" selection-start-line="64" selection-start-column="53" selection-end-line="64" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Venta_de_alimentos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="53" column="66" lean-forward="true" selection-start-line="53" selection-start-column="66" selection-end-line="53" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/menu.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Consulta.html">
+    <entry file="file://$PROJECT_DIR$/css/estilo.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="85" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="16" selection-end-column="85" />
+        <state relative-caret-position="182">
+          <caret line="66" column="17" lean-forward="false" selection-start-line="66" selection-start-column="17" selection-end-line="66" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Consulta.html">
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Banio_y_estetica.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="81" column="40" lean-forward="true" selection-start-line="81" selection-start-column="40" selection-end-line="81" selection-end-column="40" />
+        <state relative-caret-position="193">
+          <caret line="65" column="53" lean-forward="false" selection-start-line="65" selection-start-column="53" selection-end-line="65" selection-end-column="53" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pag.Servicios/_Alimentos.html">
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Desparasitaciones.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="60" column="38" lean-forward="true" selection-start-line="60" selection-start-column="38" selection-end-line="60" selection-end-column="38" />
+        <state relative-caret-position="51">
+          <caret line="77" column="60" lean-forward="false" selection-start-line="77" selection-start-column="60" selection-end-line="77" selection-end-column="60" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pag.Servicios/_Asesoria.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="59" column="48" lean-forward="false" selection-start-line="59" selection-start-column="48" selection-end-line="59" selection-end-column="48" />
-          <folding />
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pag.Servicios/_Ba.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="57" column="43" lean-forward="false" selection-start-line="57" selection-start-column="43" selection-end-line="57" selection-end-column="43" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/img/Vacuna.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pag.Servicios/_Ciru.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="54" column="38" lean-forward="false" selection-start-line="54" selection-start-column="38" selection-end-line="54" selection-end-column="38" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/img/consulta.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pag.Servicios/_Des.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="53" column="38" lean-forward="false" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pag.Servicios/_Farm.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="64" column="51" lean-forward="false" selection-start-line="64" selection-start-column="51" selection-end-line="64" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pag.Servicios/_Hos.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="63" column="42" lean-forward="true" selection-start-line="63" selection-start-column="42" selection-end-line="63" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pag.Servicios/_Lab.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="61" column="37" lean-forward="true" selection-start-line="61" selection-start-column="37" selection-end-line="61" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pag.Servicios/_Lim.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="52" column="50" lean-forward="false" selection-start-line="52" selection-start-column="50" selection-end-line="52" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pag.Servicios/_Pen.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="51" column="47" lean-forward="false" selection-start-line="51" selection-start-column="47" selection-end-line="51" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pag.Servicios/_Placa.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="59" column="38" lean-forward="false" selection-start-line="59" selection-start-column="38" selection-end-line="59" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pag.Servicios/_Ropa.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="58" column="38" lean-forward="false" selection-start-line="58" selection-start-column="38" selection-end-line="58" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pag.Servicios/_Vacceso.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="58" column="38" lean-forward="false" selection-start-line="58" selection-start-column="38" selection-end-line="58" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pag.Servicios/_Vacunas.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="73" column="28" lean-forward="false" selection-start-line="73" selection-start-column="28" selection-end-line="73" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/Estilo_Lista.css">
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Farmacia_Veterinaria.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <caret line="91" column="0" lean-forward="true" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Cirugia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="97" column="55" lean-forward="false" selection-start-line="97" selection-start-column="55" selection-end-line="97" selection-end-column="55" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Servicios.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="77" column="22" lean-forward="true" selection-start-line="77" selection-start-column="22" selection-end-line="77" selection-end-column="22" />
+        <state relative-caret-position="218">
+          <caret line="102" column="24" lean-forward="true" selection-start-line="102" selection-start-column="24" selection-end-line="102" selection-end-column="24" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#4;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1493583578593" expanded="true" signature="4511:4554" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pag.Servicios/_Consulta.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="75" column="49" lean-forward="false" selection-start-line="75" selection-start-column="49" selection-end-line="75" selection-end-column="49" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/consulta.png">
+    <entry file="file://$PROJECT_DIR$/img/Limpieza.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/Estilo_Lista.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="89" column="16" lean-forward="true" selection-start-line="89" selection-start-column="16" selection-end-line="89" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Limpieza_Dental.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="99" column="36" lean-forward="false" selection-start-line="99" selection-start-column="36" selection-end-line="99" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Asesoria_Veterinaria.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="65" column="51" lean-forward="false" selection-start-line="65" selection-start-column="50" selection-end-line="65" selection-end-column="51" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>

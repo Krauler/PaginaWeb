@@ -1,13 +1,15 @@
-.Margen{
-    margin-left: 20px;
-    margin-right: 20px;
-}
 #TextInicio{
     font-size: 22px;
 }
 .SeparadorInformacion{
-    margin-left: -5px;
-
+    font-size: 16px;
+    background-color: white;
+    text-align: justify;
+    align-content: center;
+    font-family: Arial;
+}
+.SeparadorInformacionVacuna{
+    margin-right: -40px;
     font-size: 16px;
     background-color: white;
     text-align: justify;
@@ -15,9 +17,10 @@
     font-family: Arial;
 }
 .CuadroTextoVerde{
+    margin-left: 0;
+    margin-right: -5px;
     background-color: #3c763d;
-    -moz-border-radius: 5px;
-    border-radius: 50px;
+    border-radius: 25px;
 }
 .CuadroTextoContenido{
     margin: 20px auto;
@@ -27,7 +30,7 @@
 }
 .CuadroTextoContenidoFormato{
     margin-top: 10px;
-    margin-left: 26px;
+    margin-left: 20px;
 }
 ul{
     list-style-type: square;
@@ -35,12 +38,58 @@ ul{
 }
 li{
     font-size: 16px;
-    color: #2b669a;
 }
-
-.Cabecera{
+.ContenedorConsulta{
+    background-color: white;
+}
+.CabeceraConsulta{
     margin: 10px auto;
 }
+.CabeceraDesparasitacion{
+    margin: 10px auto;
+    left: 55%;
+    top: 50%;
+    height: 50%;
+}
+.Lianas{
+    background-image: url("../img/Lianas.png");
+    background-repeat: repeat-x;
+    margin-bottom: 10px;
+    width: 530px;
+    height: 50px;
+}
+.TextoServicios{
+    text-align: justify;
+    font-size: 18px;
+    font-family: "Times New Roman";
+}
+.ConImagen{
+    text-align: center;
+    margin: 20px auto;
+}
+.ListaVa{
+    text-decoration: none;
+    color: black;
+    margin-left: 40px;
+}
+.DestacarTexto{
+    font-size: 30px;
+    color: orange;
+    font-style: italic;
+    text-align: center;
+}
+.DestacarTextoSutil{
+    text-decoration: none;
+    color: orangered;
+}
+.DestacarTelefono{
+    text-align: center;
+    color: #2b669a;
+}
+img{
+    width: 100%;
+}
+
 
 
 

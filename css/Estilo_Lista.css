@@ -72,8 +72,15 @@ li{
     color: black;
     margin-left: 40px;
 }
+.DestacarImagenes{
+    margin:0;
+    padding: 0;
+    text-align: center;
+}
 .DestacarTexto{
-    font-size: 30px;
+    margin: 0;
+    padding: 0;
+    font-size: 25px;
     color: orange;
     font-style: italic;
     text-align: center;
@@ -86,8 +93,9 @@ li{
     text-align: center;
     color: #2b669a;
 }
-img{
-    width: 100%;
+
+.Ventas{
+    margin-top: 20px;
 }
 
 

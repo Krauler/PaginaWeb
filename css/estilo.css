@@ -67,7 +67,10 @@ section {
 	padding:20px;
 }
  
-@media screen and (max-width:800px ) {
+@media screen and (max-width:803px ) {
+	menu{
+		margin-top: 20px;
+	}
 	header nav {
 		z-index: 1;
 		width:80%;
@@ -266,10 +269,18 @@ img:hover{
 	padding-top: 20px;
 	padding-bottom: 20px;
 	color: #FFF;
-	font-size: 100% !important;
+	font-size: 100%;
 	text-align: center;
 }
 .Btsubir{
 	font-size:40px;
+}
+@media only screen and (max-device-width: 764px) {
+	addespara img{
+		display:none;
+	}
+	addespara img col{
+
+	}
 }
 

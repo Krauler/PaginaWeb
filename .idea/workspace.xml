@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a6bb31c-10fd-4d0f-994a-383d6993ce6f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_config.yml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Desparasitaciones.jpg" afterPath="$PROJECT_DIR$/img/Desparasitaciones.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Comida Gato/00070646014888l.jpg" afterPath="$PROJECT_DIR$/img/Comida Gato/00070646014888l.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Comida Gato/00149510402081____1__640x640.jpg" afterPath="$PROJECT_DIR$/img/Comida Gato/00149510402081____1__640x640.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Comida Gato/7896029007112_Alimento-para-gatos-carne-Whiskas--1kg.jpg" afterPath="$PROJECT_DIR$/img/Comida Gato/7896029007112_Alimento-para-gatos-carne-Whiskas--1kg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Comida Gato/7896029028407_Alimento-para-gatos-pelo-saudavel-Whiskas---40g.jpg" afterPath="$PROJECT_DIR$/img/Comida Gato/7896029028407_Alimento-para-gatos-pelo-saudavel-Whiskas---40g.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Comida Gato/7896029072615_Alimento-para-gatos-Atum-em-molho-lata-Whiskas---290g.jpg" afterPath="$PROJECT_DIR$/img/Comida Gato/7896029072615_Alimento-para-gatos-Atum-em-molho-lata-Whiskas---290g.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Comida Gato/8959389564958.png" afterPath="$PROJECT_DIR$/img/Comida Gato/8959389564958.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Comida Gato/alimento-para-gato-whiskas-10kg-en-ituzaingo-840-MLA4726549379_072013-F.jpg" afterPath="$PROJECT_DIR$/img/Comida Gato/alimento-para-gato-whiskas-10kg-en-ituzaingo-840-MLA4726549379_072013-F.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Comida Gato/comida-humeda-para-gatos-whiskas-multipack-selecci-mta-11999.jpg" afterPath="$PROJECT_DIR$/img/Comida Gato/comida-humeda-para-gatos-whiskas-multipack-selecci-mta-11999.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Comida Gato/dentaTaste.png" afterPath="$PROJECT_DIR$/img/Comida Gato/dentaTaste.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Comida Gato/whiskas-junior-pienso-para-gatitos-pollo-mta-12672.jpg" afterPath="$PROJECT_DIR$/img/Comida Gato/whiskas-junior-pienso-para-gatitos-pollo-mta-12672.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Comida Gato/whiskas-pescado.png" afterPath="$PROJECT_DIR$/img/Comida Gato/whiskas-pescado.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Comida Gato/whiskas.jpg" afterPath="$PROJECT_DIR$/img/Comida Gato/whiskas.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pag.Servicios/Asesoria_Veterinaria.html" afterPath="$PROJECT_DIR$/Pag.Servicios/Asesoria_Veterinaria.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pag.Servicios/Banio_y_estetica.html" afterPath="$PROJECT_DIR$/Pag.Servicios/Banio_y_estetica.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pag.Servicios/Cirugia.html" afterPath="$PROJECT_DIR$/Pag.Servicios/Cirugia.html" />
@@ -12,6 +21,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pag.Servicios/Farmacia_Veterinaria.html" afterPath="$PROJECT_DIR$/Pag.Servicios/Farmacia_Veterinaria.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pag.Servicios/Hospitalizacion.html" afterPath="$PROJECT_DIR$/Pag.Servicios/Hospitalizacion.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pag.Servicios/Laboratorio_clinico.html" afterPath="$PROJECT_DIR$/Pag.Servicios/Laboratorio_clinico.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pag.Servicios/Limpieza_Dental.html" afterPath="$PROJECT_DIR$/Pag.Servicios/Limpieza_Dental.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pag.Servicios/Pension_y_guarderia.html" afterPath="$PROJECT_DIR$/Pag.Servicios/Pension_y_guarderia.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pag.Servicios/Placas_de_identificacion.html" afterPath="$PROJECT_DIR$/Pag.Servicios/Placas_de_identificacion.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pag.Servicios/Ropa.html" afterPath="$PROJECT_DIR$/Pag.Servicios/Ropa.html" />
@@ -21,7 +31,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Servicios.html" afterPath="$PROJECT_DIR$/Servicios.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/Estilo_Lista.css" afterPath="$PROJECT_DIR$/css/Estilo_Lista.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/estilo.css" afterPath="$PROJECT_DIR$/css/estilo.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/indexF.html" afterPath="$PROJECT_DIR$/indexF.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,34 +42,34 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Venta_de_alimentos.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Pag.Servicios/Venta_de_alimentos.html">
+      <file leaf-file-name="Estilo_Lista.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/Estilo_Lista.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="84" column="33" lean-forward="false" selection-start-line="84" selection-start-column="33" selection-end-line="84" selection-end-column="33" />
+            <state relative-caret-position="216">
+              <caret line="79" column="1" lean-forward="false" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cirugia.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Pag.Servicios/Cirugia.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="49" column="44" lean-forward="true" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
               <folding>
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#4;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#4;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#div#4;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#4;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#4;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#2;n#div#1;n#div#4;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#3;n#div#1;n#div#4;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#div#4;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#1;n#div#2;n#div#4;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#2;n#div#2;n#div#4;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#3;n#div#2;n#div#4;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Estilo_Lista.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/Estilo_Lista.css">
+      <file leaf-file-name="estilo.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/estilo.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="100" column="0" lean-forward="true" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+            <state relative-caret-position="385">
+              <caret line="278" column="46" lean-forward="false" selection-start-line="278" selection-start-column="46" selection-end-line="278" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -130,24 +139,24 @@
         <option value="$PROJECT_DIR$/Pag.Servicios/Vacuna.html" />
         <option value="$PROJECT_DIR$/Pag.Servicios/banio_y_estetica.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/Pag.Servicios/Limpieza_Dental.html" />
         <option value="$PROJECT_DIR$/indexF.html" />
-        <option value="$PROJECT_DIR$/Pag.Servicios/Vacunas.html" />
-        <option value="$PROJECT_DIR$/Pag.Servicios/Desparasitaciones.html" />
-        <option value="$PROJECT_DIR$/css/estilo.css" />
-        <option value="$PROJECT_DIR$/Pag.Servicios/Cirugia.html" />
+        <option value="$PROJECT_DIR$/css/Estilo_Lista.css" />
         <option value="$PROJECT_DIR$/Servicios.html" />
-        <option value="$PROJECT_DIR$/Pag.Servicios/Pension_y_guarderia.html" />
         <option value="$PROJECT_DIR$/Pag.Servicios/Asesoria_Veterinaria.html" />
+        <option value="$PROJECT_DIR$/Pag.Servicios/Banio_y_estetica.html" />
         <option value="$PROJECT_DIR$/Pag.Servicios/Farmacia_Veterinaria.html" />
         <option value="$PROJECT_DIR$/Pag.Servicios/Hospitalizacion.html" />
         <option value="$PROJECT_DIR$/Pag.Servicios/Laboratorio_clinico.html" />
+        <option value="$PROJECT_DIR$/Pag.Servicios/Limpieza_Dental.html" />
+        <option value="$PROJECT_DIR$/Pag.Servicios/Pension_y_guarderia.html" />
         <option value="$PROJECT_DIR$/Pag.Servicios/Placas_de_identificacion.html" />
         <option value="$PROJECT_DIR$/Pag.Servicios/Ropa.html" />
         <option value="$PROJECT_DIR$/Pag.Servicios/Venta_de_accesorios.html" />
-        <option value="$PROJECT_DIR$/Pag.Servicios/Banio_y_estetica.html" />
         <option value="$PROJECT_DIR$/Pag.Servicios/Venta_de_alimentos.html" />
-        <option value="$PROJECT_DIR$/css/Estilo_Lista.css" />
+        <option value="$PROJECT_DIR$/css/estilo.css" />
+        <option value="$PROJECT_DIR$/Pag.Servicios/Desparasitaciones.html" />
+        <option value="$PROJECT_DIR$/Pag.Servicios/Vacunas.html" />
+        <option value="$PROJECT_DIR$/Pag.Servicios/Cirugia.html" />
       </list>
     </option>
   </component>
@@ -162,7 +171,7 @@
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -221,7 +230,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
+              <option name="myItemId" value="Pag.Servicios" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -235,11 +244,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Comida" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -256,11 +261,11 @@
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\MAMP\htdocs\PaginaWeb" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\MAMP\htdocs\PaginaWeb\Pag.Servicios" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\MAMP\htdocs\PaginaWeb" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -390,18 +395,18 @@
       <workItem from="1494619058760" duration="934000" />
       <workItem from="1494624294151" duration="4736000" />
       <workItem from="1494643235032" duration="4439000" />
-      <workItem from="1494681379542" duration="480000" />
+      <workItem from="1494681379542" duration="9770000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79833000" />
+    <option name="totallyTimeSpent" value="89123000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12225476" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1522694" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937685" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -450,13 +455,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Servicios.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/Estilo_Lista.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -549,13 +547,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Limpieza_Dental.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="99" column="36" lean-forward="false" selection-start-line="99" selection-start-column="36" selection-end-line="99" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/indexF.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-136">
@@ -570,131 +561,154 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Vacunas.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="110" column="32" lean-forward="true" selection-start-line="110" selection-start-column="32" selection-end-line="110" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Desparasitaciones.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="98" column="35" lean-forward="true" selection-start-line="98" selection-start-column="35" selection-end-line="98" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml" />
-    <entry file="file://$PROJECT_DIR$/css/estilo.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="268" column="22" lean-forward="false" selection-start-line="268" selection-start-column="22" selection-end-line="268" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Cirugia.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="60" column="14" lean-forward="false" selection-start-line="60" selection-start-column="14" selection-end-line="60" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Servicios.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="101" column="91" lean-forward="false" selection-start-line="101" selection-start-column="91" selection-end-line="101" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Pension_y_guarderia.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1258">
-          <caret line="74" column="34" lean-forward="false" selection-start-line="74" selection-start-column="34" selection-end-line="74" selection-end-column="34" />
+        <state relative-caret-position="124">
+          <caret line="63" column="41" lean-forward="false" selection-start-line="63" selection-start-column="41" selection-end-line="63" selection-end-column="41" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Pag.Servicios/Asesoria_Veterinaria.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="16" lean-forward="false" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Farmacia_Veterinaria.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="116" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Hospitalizacion.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Laboratorio_clinico.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="116" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Placas_de_identificacion.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="116" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Ropa.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="116" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Venta_de_accesorios.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        <state relative-caret-position="306">
+          <caret line="60" column="41" lean-forward="false" selection-start-line="60" selection-start-column="41" selection-end-line="60" selection-end-column="41" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Pag.Servicios/Banio_y_estetica.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="67" column="42" lean-forward="false" selection-start-line="67" selection-start-column="42" selection-end-line="67" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Farmacia_Veterinaria.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="58" column="42" lean-forward="false" selection-start-line="58" selection-start-column="42" selection-end-line="58" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Hospitalizacion.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="59" column="42" lean-forward="false" selection-start-line="59" selection-start-column="42" selection-end-line="59" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Laboratorio_clinico.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <caret line="58" column="42" lean-forward="false" selection-start-line="58" selection-start-column="42" selection-end-line="58" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Limpieza_Dental.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="58" column="42" lean-forward="false" selection-start-line="58" selection-start-column="42" selection-end-line="58" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Pension_y_guarderia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="57" column="42" lean-forward="false" selection-start-line="57" selection-start-column="42" selection-end-line="57" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Placas_de_identificacion.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="56" column="42" lean-forward="false" selection-start-line="56" selection-start-column="42" selection-end-line="56" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Ropa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="59" column="42" lean-forward="false" selection-start-line="59" selection-start-column="42" selection-end-line="59" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Venta_de_accesorios.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="56" column="42" lean-forward="false" selection-start-line="56" selection-start-column="42" selection-end-line="56" selection-end-column="42" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Pag.Servicios/Venta_de_alimentos.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="84" column="33" lean-forward="false" selection-start-line="84" selection-start-column="33" selection-end-line="84" selection-end-column="33" />
+        <state relative-caret-position="139">
+          <caret line="59" column="42" lean-forward="false" selection-start-line="59" selection-start-column="42" selection-end-line="59" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/estiloF.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/estilo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="278" column="46" lean-forward="false" selection-start-line="278" selection-start-column="46" selection-end-line="278" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Desparasitaciones.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="103" column="62" lean-forward="false" selection-start-line="103" selection-start-column="62" selection-end-line="103" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Vacunas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="50" column="54" lean-forward="false" selection-start-line="50" selection-start-column="54" selection-end-line="50" selection-end-column="54" />
           <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#4;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#4;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#div#4;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#4;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#4;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#2;n#div#1;n#div#4;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#3;n#div#1;n#div#4;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#div#4;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#2;n#div#4;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#2;n#div#2;n#div#4;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#3;n#div#2;n#div#4;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/Estilo_Lista.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="100" column="0" lean-forward="true" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+        <state relative-caret-position="216">
+          <caret line="79" column="1" lean-forward="false" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pag.Servicios/Cirugia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="49" column="44" lean-forward="true" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

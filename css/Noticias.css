@@ -1,0 +1,9 @@
+.ContenedorNoticias{
+    margin-top: 20px;
+    background: #ffffff;
+    text-align: justify;
+    font-size: medium;
+}
+.ContenedorNoticiasImagen{
+    left: 50px;
+}

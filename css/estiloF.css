@@ -35,7 +35,8 @@ body{
 
 
 	.caption-style-4 img{
-		margin: 0px;
+		width: 100%;
+      	margin: auto;
 		padding: 0px;
 		float: left;
 		z-index: 4;
@@ -46,11 +47,11 @@ body{
 		cursor: pointer;
 		position: absolute;
 		opacity: 0;
-		-webkit-transition:all 0.45s ease-in-out;
-		-moz-transition:all 0.45s ease-in-out;
-		-o-transition:all 0.45s ease-in-out;
-		-ms-transition:all 0.45s ease-in-out;
-		transition:all 0.45s ease-in-out;
+		-webkit-transition:all 0.25s ease-in-out;
+		-moz-transition:all 0.25s ease-in-out;
+		-o-transition:all 0.25s ease-in-out;
+		-ms-transition:all 0.25s ease-in-out;
+		transition:all 0.25s ease-in-out;
 	}
 
 	.caption-style-4 img{
@@ -61,7 +62,7 @@ body{
 		transition:all 0.25s ease-in-out;
 	}
 	.caption-style-4 .blur{
-		background-color: rgba(229,129,29,0.65);
+		background-color: rgba(129, 229, 28,0.65);
 		height: 500px;
 		width: 600px;
 		z-index: 5;
@@ -70,7 +71,7 @@ body{
 
 	.caption-style-4 .caption-text h1{
 		text-transform: uppercase;
-		font-size: 24px;
+		font-size: 32px;
 	}
 	.caption-style-4 .caption-text{
 		z-index: 10;

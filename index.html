@@ -1,115 +1,200 @@
+<!DOCTYPE html>
 <html>
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-	<title>ServiPet</title>
-	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
-	<link rel="stylesheet" type="text/css" href="css/bootstrap-theme.css">
-	<link rel="stylesheet" type="text/css" href="css/estilo.css">
-	<link rel="stylesheet" type="text/css" href="css/fonts.css">
-	<link rel="shortcut icon" href="img/favicon.ico">
-    <link rel="stylesheet" type="text/css" href="css/MenuBD.css">
-    
-    
-</head>
-<body>
-	<a id="arriba" name="arriba"></a>
-    <header>
-        <div class="menu_bar">
-            <a href="#" class="bt-menu"><span class="icon-menu"></span>Menu</a>
-        </div>
-        <nav>
-            <ul>
-                <li><a href="index.html"><span class="icon-home"></span>Inicio</a></li>
-                <li><a href="Noticias.html"><span class="icon-bullhorn"></span>Noticias</a></li>
-                <li><a href="indexF.html"><span class="icon-images"></span>Fotografias</a></li>
-                <li><a href="indexV.html"><span class="icon-film"></span>Videos</a></li>
-                <li><a href="Servicios.html"><span class="icon-aid-kit"></span>Servicios</a></li>
-                <li><a href="Organigrama.html"><span class="icon-address-book"></span>Contactos</a></li>
-                <li><a href="Conexion/index.html"><span class="glyphicon-barcode"></span>Base de datos</a></li>
-
-            </ul>
-        </nav>
-    </header>
-
-    <div class="parallax">
-		<div id="SupDivContenedor" class="stroke">Bienvenido <br> a <br> ServiPet</div>
-	</div>
-	<div class="parallaxc">
-		<div id="divi" align="center">
-			<img src="img/Grupo-perros.png">
+	<head>
+		<title>Formulario De Contacto</title>
+		<link rel="stylesheet" type="text/css" href="estilo.css">
+	</head>
+	<body>
+		<div class="form">
+			<form action="guardar.php" method="POST">
+				<p>Nombre</p>
+				<label for="Nombre_clente">Su nombre</label>
+				<br>
+				<input type="text" name="Nombre_clente" maxlength="45" placeholder="Nombre_clente" return SoloLetras(event)>
+				<p>Tipo de Cliente</p>
+				<label for="Tipo_cliente">Tipo</label>
+				<br>
+				<input type="text" name="Tipo_cliente" maxlength="45" placeholder="Tipo_cliente" return SoloLetras(event)>
+				<p>Direccion</p>
+				<label for="Dirección">Su direccion</label>
+				<br>
+				<input type="text" name="Dirección" maxlength="45" placeholder="Dirección" return SoloLetras(event)>
+				<p>Ciudad</p>
+				<label for="Ciudad">Ciudad</label>
+				<br>
+				<input type="text" name="Ciudad" maxlength="45" placeholder="Ciudad" return SoloLetras(event)>
+				<p>Comunidad</p>
+				<label for="Comunidad">Comunidad</label>
+				<br>
+				<input type="text" name="Comunidad" maxlength="45" placeholder="Comunidad" return SoloLetras(event)>
+				<p>Codigo Postal</p>
+				<label for="Codigo_Postal">Codigo Postal</label>
+				<br>
+				<input type="text" name="Codigo_Postal" maxlength="5" placeholder="Codigo_Postal" return SoloNumero>
+				<p>Telefono</p>
+				<label for="Teléfono">Telefono</label>
+				<br>
+				<input type="text" name="Teléfono" maxlength="10" placeholder="Teléfono" return SoloNumero>
+				<p>Fecha Ultima Visita</p>
+				<label for="Fecha_ultvisita">Ultima Visita</label>
+				<br>
+				<input type="datetime" name="Fecha_ultvisita" maxlength="" placeholder="Fecha_ultvisita" return SoloNumero>
+				<p>Descuento</p>
+				<label for="Descuento">Descuento</label>
+				<br>
+				<input type="text" name="Descuento" maxlength="10" placeholder="Descuento" return SoloNumero>
+				<br>
+				<br>
+				<input type="submit" value="Enviar">
+			</form>
 		</div>
-		<div id="divd" class="col-6">
-		<h1>Misión</h1>
+		<script src="js/jquery-3.1.1.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<script type="text/javascript">
+            function SoloNumero(e)
+            {
+                Key=e.KeyCode || e.which;
 
-		Crear conciencia social para el bienestar animal, fortaleciendo el vínculo emocional que existe entre las
-		personas y sus animales de compañía, mediante la prestación de nuestros servicios médicos veterinarios y
-		complementarios a la comunidad Antioqueña. Nuestro equipo de trabajo comparte valores y principios éticos,
-		que brindan el amor, el respeto, la responsabilidad y el compromiso para con nosotros mismos, con nuestros
-		usuarios y pacientes.
+                teclado = String.fromCharCode(Key);
 
-		</div>	
-	</div>
-	<div class="parallax1"></div>
-	<div class="parallaxc1">
-		<div id="divi" align="center">
-			<img src="img/mascotas.png">
-		</div>
-		<div id="divd" class="col-6">
-		<h1>Visión</h1>
+                numero = "0123456789";
 
-			En 2018, seremos la institución veterinaria líder en la promoción de la salud animal, educando a la comunidad
-			y trasmitiendo los valores humanos necesarios para transformar nuestra sociedad, participando  en su
-			transformación hacia el Departamento con la mejor sanidad, vigilancia y trato humanitario para con los
-			animales en Colombia. Nuestras instalaciones, dotadas con tecnología de vanguardia y nuestro equipo médico
-			veterinario y técnico, calificado y comprometido con el bienestar animal. Servirán como centro de
-			referencia para el todo el Valle de Aburrá.
+                especiales = "8-37-38-46";
 
-		</div>	
-	</div>
-	<div class="parallax2"></div>
-	<div class="parallaxc2">
-		<div id="divi" align="center">
-			<img src="img/Grupo-perros.png">
-		</div>
-		<div id="divd" class="col-6">
-		<h1>Valores</h1>
+                teclado_especial = false;
 
-		AMOR. Es nuestro valor fundamental y el principio de todo cambio social. Los animales de compañía traen amor
-			y felicidad a los hogares y nosotros ayudamos para fortalecerlo.
-		<br>
-	    RESPONSABILIDAD. Usando la medicina preventiva como herramienta para promover la salud, es nuestra
-			responsabilidad mantener sano al animal de compañía y a toda su familia.
-	    <br>	    
-	    RESPETO. Cumplimos con nuestra responsabilidad, somos coherentes con nuestros valores y sabemos que usted es
-			quien decide sobre el bienestar de su mascota, nosotros respetamos su decisión.
-		</div>	
-	</div>
+                for (var i in especiales)
+                {
+                    if (Key == especiales[i])
+                    {
+                        teclado_especial = true;
+                    }
+                }
 
-	<div class="footer col-lg-6">
-		<div>
-			URGENCIAS VETERINARIAS 24 HRS: (462) 3129-311 Y 5240-040 |
-			<a href="Organigrama.html">CONTACTO</a> |
-			<a href="Organigrama.html">MAPA DEL SITIO</a> |
-			<a href="#">AVISO DE PRIVACIDAD</a> |
-			Síguenos en:
-			<img src="img/facebook.png" height="40"/>
-			<img src="img/Tweter.png" height="40"/>
-			<img src="img/instagram.png" height="40"/>
-			<img src="img/youtube.png" height="40"/>
-		</div>
+                if(numero.indexOf(teclado) == -1 && !teclado_especial)
+                {
+                    return false;
 
-		<div id="BannerTexto" class="col-xs-6">
-			<a id="bsubir" href="#arriba" class="Btsubir">
-				<span class="glyphicon glyphicon-chevron-up"></span></a>
-		</div>
-	</div>
+                }
+            }
 
-	<script src="js/jquery-latest.js"></script>
-	<script src="js/menu.js"></script>
-	<script src="css/bootstrap.css" type="text/css"></script>
-	<script src="css/bootstrap-theme.css" type="text/css"></script>
-    <script src="js/abrir.js" type="text/javascript"></script>
+            function SoloLetras(e)
+            {
+                key=e.KeyCode || e.which;
+                teclado = String.fromCharCode(key).toLowerCase();
+                letras="abcdefghijklmnñopqrstuvwxyz ";
+                especiales="8-37-38-46-164";
+                teclado_especial=false;
 
-</body>
+                for(var i in especiales)
+                {
+
+                    if(key == especiales[i])
+                    {
+                        teclado_especial=true;
+                        break;
+                    }
+                }
+
+                if(letras.indexOf(teclado)==-1 && !teclado_especial)
+                {
+                    return false;
+
+                }
+            }
+
+            function SoloDirecciones(e)
+            {
+                key=e.KeyCode || e.which;
+                teclado = String.fromCharCode(key).toLowerCase();
+                letras="abcdefghijklmnñopqrstuvwxyz0123456789# ";
+                especiales="8-37-38-46-164";
+                teclado_especial=false;
+
+                for(var i in especiales)
+                {
+
+                    if(key == especiales[i])
+                    {
+                        teclado_especial=true;
+                        break;
+                    }
+                }
+
+                if(letras.indexOf(teclado)==-1 && !teclado_especial)
+                {
+                    return false;
+
+                }
+            }
+
+            function ValidarCorreoElectonico(e)
+            {
+                tecla = (document.all)?e.KeyCode : e.which;
+
+                if (tecla == 40) return true;
+                expresion = /^[-\w.%+]{1,64}@(?:[A-Z0-9-]{1,63}\.){1,125}[A-Z]{2,63}$/i;
+
+                te = String.fromCharCode(tecla);
+
+                if(expresion.test(te))
+                {
+                    return true;
+                }
+                else
+                {
+                    alert("Formato de correo incorrecto")
+                    return false;
+                }
+            }
+            function SoloLetras2(e)
+            {
+                key=e.KeyCode || e.which;
+                teclado = String.fromCharCode(key).toLowerCase();
+                letras="mf";
+                especiales="8-37-38-46-164";
+                teclado_especial=false;
+
+                for(var i in especiales)
+                {
+
+                    if(key == especiales[i])
+                    {
+                        teclado_especial=true;
+                        break;
+                    }
+                }
+
+                if(letras.indexOf(teclado)==-1 && !teclado_especial)
+                {
+                    return false;
+
+                }
+            }
+            function Tiposanguineo(e)
+            {
+                key=e.KeyCode || e.which;
+                teclado = String.fromCharCode(key).toLowerCase();
+                letras="abo+-";
+                especiales="8-37-38-46-164";
+                teclado_especial=false;
+
+                for(var i in especiales)
+                {
+
+                    if(key == especiales[i])
+                    {
+                        teclado_especial=true;
+                        break;
+                    }
+                }
+
+                if(letras.indexOf(teclado)==-1 && !teclado_especial)
+                {
+                    return false;
+
+                }
+            }
+		</script>
+	</body>
 </html>

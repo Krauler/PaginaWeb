@@ -3,40 +3,137 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="../Pag_Proyecto_Veterinaria/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="css/estilo.css">
-	<link rel="stylesheet" type="text/css" href="css/fonts.css">
-    <link rel="shortcut icon" href="../favicon.ico">
-    <link rel="stylesheet" type="text/css" href="../Pag_Proyecto_Veterinaria/css/default.css" />
-    <link rel="stylesheet" type="text/css" href="../Pag_Proyecto_Veterinaria/css/component.css" />
-    <script src="../Pag_Proyecto_Veterinaria/js/modernizr.custom.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="css/fonts.css">
+    <link rel="stylesheet" type="text/css" href="css/estiloS.css"/>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap-theme.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" type="text/css" href="css/Organigrama.css"/>
+    <link rel="shortcut icon" href="img/favicon.ico">
+
     <title>ServiPet</title>
+    <script src="js/menu.js"></script>
 </head>
 
 <body>
-<header>
-	<div class="menu_bar">
-		<a href="#" class="bt-menu"><span class="icon-menu"></span>Menu</a>
-	</div>
+    <header>
+        <div class="menu_bar">
+            <a href="#" class="bt-menu"><span class="icon-menu"></span>Menu</a>
+        </div>
 
-	<nav>
-		<ul>
-			<li><a href="index.html"><span class="icon-home"></span>Inicio</a></li>
-			<li><a href="Servicios.html"><span class="icon-bullhorn"></span>Noticias</a></li>
-			<li><a href="indexF.html"><span class="icon-images"></span>Fotografias</a></li>
-			<li><a href="IndexV.html"><span class="icon-film"></span>Videos</a></li>
-			<li><a href="index2.html"><span class="icon-aid-kit"></span>Servicios</a></li>
-			<li><a href="#"><span class="icon-address-book"></span>Contactos</a></li>
-
-		</ul>
-	</nav>
-</header>
-<div class="row collg12"></div>
-<embed src=Docs/organigrama_veterinaria.pdf type="application/pdf" width="1400" height="620">
+        <nav>
+            <ul>
+                <li><a href="index.html"><span class="icon-home"></span>Inicio</a></li>
+                <li><a href="Noticias.html"><span class="icon-bullhorn"></span>Noticias</a></li>
+                <li><a href="indexF.html"><span class="icon-images"></span>Fotografias</a></li>
+                <li><a href="indexV.html"><span class="icon-film"></span>Videos</a></li>
+                <li><a href="Servicios.html"><span class="icon-aid-kit"></span>Servicios</a></li>
+                <li><a href="#"><span class="icon-address-book"></span>Contactos</a></li>
+            </ul>
+        </nav>
+    </header>
 
 
-<script src="../Pag_Proyecto_Veterinaria/js/vendor/jquery-1.12.0.min.js" type="text/javascript"></script>
-<script src="../Pag_Proyecto_Veterinaria/js/bootstrap.min.js" type="text/javascript"></script>
+    <div class="MargenOrganigrama col-xs-12">
+        <menu>
+            <div class="panel panel-info">
+                <div class="panel-heading">
+                    <div id="TextInicio" class="panel-footer">
+                        <h3 class="TextMenu">Organigrama de la empresa Servipet con sus números de extensión</h3>
+                    </div>
+                </div>
+            </div>
+        </menu>
+
+        <div class="col-xs-12 Fondo">
+            
+            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <embed class="ForOrganigrama" src=Docs/organigrama_veterinaria.pdf type="application/pdf">
+            </div>
+            
+            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7465.914785544472!2d-101.35916241535253!3d20. 671312354445018!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842c7fcd1b9e9607%3A0xe91b7c09c496c005!2sDinavet!5e0!3m2!1ses!2smx!4v1495796606137" width=100% height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+            </div>
+
+
+            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <h1 class="TextoInfoContacto">Informacion de contacto</h1>
+                <div class="quote-container col-xs-12">
+                    <a href="#" class="quote-button">Mostrar</a>
+                    <blockquote>
+                        <p class="TextoInfo">"Urgencias veterinarias las <span class="TextoInfoDestacar">24hrs</span>".</p>
+                        <p class="TextoInfo">Telefono de atencion con lada: (462) 3129-311 Y 5240-040 </p>
+                    </blockquote>
+                </div>
+            </div>
+            
+            <div class="col-xs-12 col-sm-6 col-md-6 col col-lg-6">
+                <h1 class="TextoInfoContacto">Informacion del establecimiento</h1>
+                <div class="quote-container2 col-xs-12">
+                    <a href="#" class="quote-button2">Mostrar</a>
+                    <blockquote2>
+                        <p class="TextoInfo">"Nos encontramos en AV.Independecia atras de la gasolinera. Contamos con profecionales de alto nivel".</p>
+                    </blockquote2>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="Banner col-xs-12">
+        <div>
+            URGENCIAS VETERINARIAS 24 HRS: (462) 3129-311 Y 5240-040 |
+            <a href="">CONTACTO</a> |
+            <a href="#">MAPA DEL SITIO</a> |
+            <a href="#">AVISO DE PRIVACIDAD</a> |
+            Síguenos en:
+            <img src="img/facebook.png" height="40"/>
+            <img src="img/Tweter.png" height="40"/>
+            <img src="img/instagram.png" height="40"/>
+            <img src="img/youtube.png" height="40"/>
+        </div>
+
+        <div id="BannerTexto" class="col-xs-12">
+            <a id="bsubir" href="#arriba" class="Btsubir">
+                <span class="glyphicon glyphicon-chevron-up"></span></a>
+        </div>
+    </div>
+
+    <script src="js/vendor/jquery-1.12.0.min.js" type="text/javascript"></script>
+    <script src="js/bootstrap.js" type="text/javascript"></script>
+    <script src="js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="js/menu.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        (function () {
+            var quoteButton = $('.quote-button'),
+                blockquote = $('blockquote');
+
+            quoteButton.on('click', function (e) {
+                e.preventDefault();
+                var quoteButtonText = quoteButton.text();
+
+                blockquote.slideToggle(200, function () {
+                    quoteButtonText == "Mostrar" ? quoteButton.text("Ocultar") : quoteButton.text("Mostrar");
+                });
+            });
+        })();
+    </script>
+    <script type="text/javascript">
+        (function () {
+            var quoteButton2 = $('.quote-button2'),
+                blockquote2 = $('blockquote2');
+
+            quoteButton2.on('click', function (e) {
+                e.preventDefault();
+                var quoteButtonText2 = quoteButton2.text();
+
+                blockquote2.slideToggle(200, function () {
+                    quoteButtonText2 == "Mostrar" ? quoteButton2.text("Ocultar") : quoteButton2.text("Mostrar");
+                });
+            });
+        })();
+    </script>
+    <script src="js/abrir.js" type="text/javascript"></script>
 
 </body>
 </html>
